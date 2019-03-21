@@ -1,6 +1,10 @@
 
 
-# ICart
+# Smart self-checkout cart (ICart)
+
+Major developers: Lianfa Bai, Yi zhang, Jing han, Enlai Guo, Xiaoyu Chen, Jingsong Zhang, Dan Yan, We Zhang, Junwei Zhu, Mingzhu Li, Jiani Gao, Qin Wang.
+
+Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
 <center><img width="400" height="400" src="imgs/cart1.png"/></center><br/>
 
