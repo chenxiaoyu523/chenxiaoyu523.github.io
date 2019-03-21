@@ -4,7 +4,7 @@ Major developers: Lianfa Bai, Yi zhang, Jing han, Xiaoyu Chen, Sitong Chen, XiuX
 
 Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
-<center><img width="640" height="400" src="imgs/uav2.jpg"/></center><br/>
+<center><img width="700" height="400" src="imgs/uav2.jpg"/></center><br/>
 
 The IRS UVA is a integrated reconnaissance/strike UAV (IRS UAV) stystem that is able to detect and track target and then strike. The IRS UAV is composed of six-rotor unmanned helicopter imaging module and onboard computing platform. We focus the targets containing different types of vehicles, motorways, bridges, etc.
 
