@@ -16,7 +16,7 @@ The six-rotor unmanned helicopter is from DJI and the model is M600. M600 provid
 
 To work on both daytime and night, the IRS UAV is equipped with a digital camera and a thermal imager. The digital camera is competent for most of the scenes on daytime, and when it comes to night, the thermal imager can be used to find anomaly targets. Besides, the aligned digital camera and a thermal imager can be used as a multispectral imager for more information.
 
-<center><img width="400" height="400" src="imgs/uav.JPG"/></center><br/>
+<center><img width="400" height="340" src="imgs/uav.JPG"/></center><br/>
 
 # onboard computing platform
 
