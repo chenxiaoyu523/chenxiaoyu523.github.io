@@ -30,8 +30,12 @@ For online real-time reconnaissance and reaction, the data processing is onboard
 
 
 # Videos
-	  
-<video id="video"><source id="wmv" src="imgs/ir.wmv"></video>
+
+<iframe height=498 width=510 src="imgs/ir.wmv">
+
+<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="wmv" src="imgs/ir.wmv" type="video/wmv">
+      </video>
       
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
       <source id="wmv" src="imgs/vis.wmv" type="video/wmv">
