@@ -6,9 +6,9 @@ layout: default
 
 The ICart is a self-checkout system designed and developed to eliminate queues in supermarkets.
 
-The anti-theft module of the ICart is equiped with multiple sensors and is able to recongnize if the commodities put in has been entried or are matched with the items recorded in the system. 
+The anti-theft module of the ICart is equiped with multiple sensors and is able to recongnize if the commodities put in have been entried or are matched with the items recorded in the data management. 
 
-Now the ICart has been used in more than fifty supermarkets.
+Now the ICarts have been used in more than fifty supermarkets.
 
 # Pictures
 
