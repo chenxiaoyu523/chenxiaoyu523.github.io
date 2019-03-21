@@ -1,6 +1,4 @@
-
-
-# Smart self-checkout cart (ICart)
+# Integrated Reconnaissance/ Strike UAV
 
 Major developers: Lianfa Bai, Yi zhang, Jing han, Enlai Guo, Xiaoyu Chen, Jingsong Zhang, Dan Yan, We Zhang, Junwei Zhu, Mingzhu Li, Jiani Gao, Qin Wang.
 
