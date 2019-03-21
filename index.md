@@ -2,6 +2,4 @@
 layout: default
 ---
 
-<div align=center>![Branching](imgs/cart1.png)
-
-<center><img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/></center><br/>
+<center><img width="400" height="400" src="imgs/cart1.png"/></center><br/>
