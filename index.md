@@ -12,9 +12,9 @@ Now the ICart has been used in more than fifty supermarkets.
 
 # Pictures
 
-<img width="200" height="300" src="imgs/cart2.jpg"/>
-<img width="400" height="300" src="imgs/cart3.jpg"/>
-<img width="200" height="300" src="imgs/cart4.jpg"/>
+<img width="220" height="300" src="imgs/cart2.jpg"/>
+<img width="380" height="300" src="imgs/cart3.jpg"/>
+<img width="220" height="300" src="imgs/cart4.jpg"/>
 
 <center><img width="300" height="300" src="imgs/certification.jpg"/></center><br/>
 
