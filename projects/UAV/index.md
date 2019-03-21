@@ -24,7 +24,7 @@ For online real-time reconnaissance and reaction, the data processing is onboard
 
 # Pictures
 
-<img width="220" height="300" src="imgs/uav1.png"/>
+<img width="300" height="300" src="imgs/uav1.png"/>
 <img width="200" height="300" src="imgs/cer1.jpg"/>
 <img width="200" height="300" src="imgs/cer2.jpg"/>
 
