@@ -1,27 +1,40 @@
-# Integrated Reconnaissance/ Strike UAV
+# Integrated Reconnaissance/Strike UAV (IRS UAV)
 
 Major developers: Lianfa Bai, Yi zhang, Jing han, Xiaoyu Chen, Sitong Chen, XiuXiu Chu, Qixing Wang, Junwei Zhu, Mingzhu Li, Jiani Gao, Qin Wang, Canlong Wang, Yonghao Huang.
 
 Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
-<center><img width="400" height="400" src="imgs/cart1.png"/></center><br/>
+<center><img width="400" height="400" src="imgs/uav2.jpg"/></center><br/>
 
-The ICart is a self-checkout system designed and developed to eliminate queues in supermarkets.
+The IRS UVA is a integrated reconnaissance/strike UAV (IRS UAV) stystem that is able to detect and track target and then strike. The IRS UAV is composed of six-rotor unmanned helicopter imaging module and onboard computing platform. We focus the targets containing different types of vehicles, motorways, bridges, etc.
 
-The anti-theft module of the ICart is equiped with multiple sensors and is able to recongnize if the commodities put in have been entried or are matched with the items recorded in the data management. 
+# six-rotor unmanned helicopter
 
-Now the ICarts have been used in more than fifty supermarkets.
+The six-rotor unmanned helicopter is from DJI and the model is M600. M600 provides rich set of instructions for UAV control, and can be controlled to performs various tasks.
+
+# imaging module
+
+To work on both daytime and night, the IRS UAV is equipped with a digital camera and a thermal imager. The digital camera is competent for most of the scenes on daytime, and when it comes to night, the thermal imager can be used to find anomaly targets. Besides, the aligned digital camera and a thermal imager can be used as a multispectral imager for more information.
+
+<center><img width="400" height="400" src="imgs/uav.jpg"/></center><br/>
+
+# onboard computing platform
+
+For online real-time reconnaissance and reaction, the data processing is onboard. The onboard computing platform is NVIDIA JETSON TX2, where we perform detection and tracking agrithms. 
 
 # Pictures
 
-<img width="220" height="300" src="imgs/cart2.jpg"/>
-<img width="380" height="300" src="imgs/cart3.jpg"/>
-<img width="220" height="300" src="imgs/cart4.jpg"/>
+<img width="220" height="300" src="imgs/uav1.jpg"/>
+<img width="200" height="300" src="imgs/cer1.jpg"/>
+<img width="200" height="300" src="imgs/cer2.jpg"/>
 
-<center><img width="300" height="300" src="imgs/certification.jpg"/></center><br/>
 
 # Videos
 	  
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=c0319pmd0m2" allowFullScreen="true"></iframe>
-	  
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=k0647bmmsvo" allowFullScreen="true"></iframe>
+<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="wmv" src="imgs/ir.wmv" type="video/wmv">
+      </video>
+      
+<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="wmv" src="imgs/vis.wmv" type="video/wmv">
+      </video>
