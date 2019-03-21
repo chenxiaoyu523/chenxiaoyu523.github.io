@@ -1,6 +1,6 @@
 # Integrated Reconnaissance/ Strike UAV
 
-Major developers: Lianfa Bai, Yi zhang, Jing han, Enlai Guo, Xiaoyu Chen, Jingsong Zhang, Dan Yan, We Zhang, Junwei Zhu, Mingzhu Li, Jiani Gao, Qin Wang.
+Major developers: Lianfa Bai, Yi zhang, Jing han, Xiaoyu Chen, Sitong Chen, XiuXiu Chu, Qixing Wang, Junwei Zhu, Mingzhu Li, Jiani Gao, Qin Wang, Canlong Wang, Yonghao Huang.
 
 Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
