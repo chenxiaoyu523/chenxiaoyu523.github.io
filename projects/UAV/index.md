@@ -35,5 +35,5 @@ For online real-time reconnaissance and reaction, the data processing is onboard
 
       
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="wmv" src="imgs/vis.wmv" type="video/wmv">
+      <source id="mp4" src="imgs/vis.mp4" type="video/mp4">
       </video>
